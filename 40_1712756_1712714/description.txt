@@ -1,0 +1,11 @@
+VARIABLE DESCRIPTIONS:
+titles          The title of the movie
+introduction	The inntroduction of the movie	
+genres		The genres of the movie
+certificates	The license type of the movie
+votes           the number of Votes
+metascores      Metascore Based on critic reviews provided by Metacritic.com
+directors       The name of directors
+gross           The Gross of the movie
+runtime        	the duration of the movie(min)
+ratings         A weighted average vote for user ratings 
